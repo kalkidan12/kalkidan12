@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm Kalkidan a Full-stack web Developer.
+I'm Kalkidan a Full-stack Web & Mobile Developer.
 
 - :telescope: I’m currently working as a Software Developer @uxlivinglab.com
 

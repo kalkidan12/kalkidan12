@@ -47,7 +47,6 @@ I am an analytical and detail-oriented Software Engineer focused on architecting
 
 ### 🔥 GitHub Stats
 
-<!-- GitHub Profile Summary Cards -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalkidan12&theme=github_dark" />
 </p>

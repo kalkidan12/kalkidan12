@@ -75,7 +75,7 @@ I am an analytical and detail-oriented Software Engineer focused on architecting
 
 <p align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalkidan12&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalkidan12&theme=github_dark" />
+  <!-- <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalkidan12&theme=github_dark" /> -->
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalkidan12&theme=github_dark" />
 </p>
 
